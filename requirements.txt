@@ -2,4 +2,3 @@ voila
 fastai
 pywidgets
 pillow<7
-ipywidgets
